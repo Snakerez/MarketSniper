@@ -32,4 +32,7 @@ Manage History: In the /msniper menu, you can click [R] to instantly re-scan an 
 Do NOT Spam Items: Clicking through hundreds of market board items rapidly or constantly hammering the UI refresh buttons is completely useless. Universalis aggregates data and does not update instantly on every click.
 IP Block Risk: Aggressive spamming triggers Cloudflare and Universalis API DDoS protection. If you make too many requests in a short window, Universalis will temporarily or permanently block your IP address, which will break your plugin access (and website access) entirely.
 Use at Your Own Risk: Browse naturally and give the engine a brief moment between items. The plugin features built-in safety debouncing, but responsible browsing behavior is ultimately up to you!
+
+Repo: https://raw.githubusercontent.com/Snakerez/WhoIsWatchingMe/main/repo.json
+
  
